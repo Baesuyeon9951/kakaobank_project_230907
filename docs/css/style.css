@@ -114,7 +114,7 @@ html>body {
 
 /* 메인 섹션 배너 구현 시작 */
 .section-1>.section-con {
-	background-image: url(/images/main-bg3.png);
+	background-image: url(../images/main-bg3.png);
 	width: 1200px;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -167,7 +167,7 @@ html>body {
 	display: inline-block;
 	width: 24px;
 	height: 24px;
-	background-image: url(/images/img_kabang_220615.png);
+	background-image: url(../images/img_kabang_220615.png);
 	background-repeat: no-repeat;
 	background-position: -341px -292px;
 	margin-top: -4px;
@@ -330,7 +330,7 @@ html>body {
 
 /* 배너박스 5 구현 시작 */
 .banner-box-type-5 {
-	background-image: url(/images/home_map.png);
+	background-image: url(../images/home_map.png);
 	background-repeat: no-repeat;
 	background-position: -12% 50%;
 }
@@ -786,7 +786,7 @@ html>body {
 
 .bottom-bar__footer>.icon-sns-list>ul>li>.icon {
 	display: block;
-	background-image: url(/images/ico_sns.png);
+	background-image: url(../images/ico_sns.png);
 	background-repeat: no-repeat;
 	width: 24px;
 	height: 24px;
